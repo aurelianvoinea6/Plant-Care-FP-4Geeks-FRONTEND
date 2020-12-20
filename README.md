@@ -12,7 +12,7 @@ Para elaborar el proyecto se ha realizado los siguientes esquemas:
 
 <b>Diseño de la Base de datos:</b>
 
-<a href="https://app.quickdatabasediagrams.com/#/d/cytSRn"><img align="center" src="https://i.ibb.co/Qd5NKXJ/Final-DATABASE-model.png" alt="Final-DATABASE-model" alt="database" border="0" /></a>
+<a href="https://app.quickdatabasediagrams.com/#/d/cytSRn"><img align="center" src="https://i.ibb.co/4t9ck02/basededatos.jpg" alt="Final-DATABASE-model" alt="database" border="0" /></a>
 (Click sobre la imágen para abrir)
 
 <b>Mockups realizados en Figma:</b>
