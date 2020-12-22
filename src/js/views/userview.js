@@ -7,12 +7,17 @@ import { ModalNewPlant } from "../component/addNewPlant.jsx";
 import { ModalRoomInputs } from "../component/addNewRoom.jsx";
 import { ButtonRoomGenerator } from "../component/roomGeneratorMap.jsx";
 import { RoomGeneratorPlants } from "../component/PlantsRoomGenerator.jsx";
+import { Link } from "react-router-dom";
 
 export const Userview = () => {
 	return (
 		<Fragment>
 			<div className="room-panel">
 				<div className="panel">
+					<Link to="/panelprofile">
+						Ver Perfil <i className="fas fa-user-circle fa-2x" />
+					</Link>
+
 					<p className="nameList">Ubicaciones</p>
 					<ButtonRoomGenerator />
 				</div>
