@@ -15,7 +15,7 @@ export const Userview = () => {
 			<div className="room-panel">
 				<div className="panel">
 					<Link to="/panelprofile">
-						Ver Perfil <i className="fas fa-user-circle fa-2x" />
+						Ver Perfil <i className="mt-4 fas fa-user-circle fa-2x " />
 					</Link>
 
 					<p className="nameList">Ubicaciones</p>
